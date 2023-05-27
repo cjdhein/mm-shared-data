@@ -1,0 +1,9 @@
+<StratconFacility>
+	<scenarioOddsModifier>5</scenarioOddsModifier>
+	<capturedDefinition>AlliedDataCenter.xml</capturedDefinition>
+	<displayableName>Data Center</displayableName>
+        <facilityType>DataCenter</facilityType>
+        <owner>Opposing</owner>
+        <sharedModifiers>EnemyMechPatrol.xml</sharedModifiers>		
+        <visible>false</visible>
+</StratconFacility>
